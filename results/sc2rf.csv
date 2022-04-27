@@ -1,0 +1,7 @@
+sample,examples,intermissions,breakpoints,regions
+XM_example_1,"Omicron/BA.1/21K,Omicron/BA.2/21L",0,1,"241:18163|Omicron/BA.1/21K,19955:29510|Omicron/BA.2/21L"
+XM_example_2,"Omicron/BA.1/21K,Omicron/BA.2/21L",0,1,"241:20055|Omicron/BA.1/21K,21618:29510|Omicron/BA.2/21L"
+proposed467_example_1,"Omicron/BA.1/21K,Omicron/BA.2/21L",0,1,"241:15240|Omicron/BA.1/21K,15714:29510|Omicron/BA.2/21L"
+proposed467_example_2,"Omicron/BA.1/21K,Omicron/BA.2/21L",0,1,"241:15240|Omicron/BA.1/21K,15714:29510|Omicron/BA.2/21L"
+miscBA1BA2Post17k_example_1,"Omicron/BA.1/21K,Omicron/BA.2/21L",0,1,"241:20055|Omicron/BA.1/21K,21618:29510|Omicron/BA.2/21L"
+miscBA1BA2Post17k_example_2,"Omicron/BA.1/21K,Omicron/BA.2/21L",0,1,"241:20055|Omicron/BA.1/21K,21618:29510|Omicron/BA.2/21L"
